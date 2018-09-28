@@ -96,7 +96,7 @@ tool.openBrowser(); // open Browser
 
 Default check HTML file as homepage
 
-``js
+```js
 const dist = path.join(__dirname, 'dist');
 tool.httpserver({ port: 8088, dist },() => {});
 ```
