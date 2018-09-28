@@ -1,7 +1,7 @@
 {
   "name": "node-tool-utils",
-  "version": "0.1.0",
-  "description": "node normal tool and utils",
+  "version": "1.1.0",
+  "description": "node cross-platform tool library",
   "keywords": [
     "npm",
     "npm package",
@@ -13,9 +13,12 @@
     "changelog"
   ],
   "dependencies": {
+    "chalk": "^2.0.1",
     "cross-port-killer": "^1.0.1",
     "opn": "^5.4.0",
-    "shelljs": "^0.8.2"
+    "shelljs": "^0.8.2",
+    "node-glob": "^1.2.0",
+    "node-http-server": "^8.1.2"
   },
   "devDependencies": {
     "chai": "^4.1.1",
