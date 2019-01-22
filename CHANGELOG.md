@@ -1,3 +1,13 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/hubcarl/node-tool-utils/compare/1.1.1...1.2.0) (2019-01-22)
+
+
+### Features
+
+* add writeFile and readFile method ([ee56121](https://github.com/hubcarl/node-tool-utils/commit/ee56121))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2018-10-10)
 
