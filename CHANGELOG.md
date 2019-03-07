@@ -1,3 +1,13 @@
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/hubcarl/node-tool-utils/compare/1.2.0...1.2.1) (2019-03-07)
+
+
+### Bug Fixes
+
+* 8080 is running, change 8080 to 8888 ([5bf57e0](https://github.com/hubcarl/node-tool-utils/commit/5bf57e0))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/hubcarl/node-tool-utils/compare/1.1.1...1.2.0) (2019-01-22)
 
