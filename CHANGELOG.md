@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/hubcarl/node-tool-utils/compare/1.2.1...1.2.2) (2019-07-05)
+
+
+### Bug Fixes
+
+* exports npm module ([f1827c7](https://github.com/hubcarl/node-tool-utils/commit/f1827c7))
+
+
+
 <a name="1.2.1"></a>
 ## [1.2.1](https://github.com/hubcarl/node-tool-utils/compare/1.2.0...1.2.1) (2019-03-07)
 
