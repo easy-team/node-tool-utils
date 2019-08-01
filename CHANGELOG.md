@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/hubcarl/node-tool-utils/compare/1.2.2...1.2.3) (2019-08-01)
+
+
+### Bug Fixes
+
+*  netstat replace to lsof -i for check port used ([3bf06c3](https://github.com/hubcarl/node-tool-utils/commit/3bf06c3))
+
+
+
 ## [1.2.2](https://github.com/hubcarl/node-tool-utils/compare/1.2.1...1.2.2) (2019-07-05)
 
 
