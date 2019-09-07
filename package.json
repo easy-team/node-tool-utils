@@ -1,6 +1,6 @@
 {
   "name": "node-tool-utils",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "description": "node cross-platform tool library",
   "keywords": [
     "npm",
