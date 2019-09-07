@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/hubcarl/node-tool-utils/compare/1.2.3...1.3.0) (2019-09-07)
+
+
+### Features
+
+* support http server file download and file content read and dir display tree ([9c24359](https://github.com/hubcarl/node-tool-utils/commit/9c24359))
+
+
+
 ## [1.2.3](https://github.com/hubcarl/node-tool-utils/compare/1.2.2...1.2.3) (2019-08-01)
 
 
