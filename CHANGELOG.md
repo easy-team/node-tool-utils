@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/hubcarl/node-tool-utils/compare/1.3.0...1.4.0) (2019-10-21)
+
+
+### Features
+
+* set header[Access-Control-Allow-Origin]=* for CORS and auto serv no file  ext ([60fc0c7](https://github.com/hubcarl/node-tool-utils/commit/60fc0c7))
+
+
+
 # [1.3.0](https://github.com/hubcarl/node-tool-utils/compare/1.2.3...1.3.0) (2019-09-07)
 
 
