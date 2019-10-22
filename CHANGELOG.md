@@ -1,3 +1,12 @@
+## [1.4.1](https://github.com/hubcarl/node-tool-utils/compare/1.4.0...1.4.1) (2019-10-22)
+
+
+### Bug Fixes
+
+* cors not get request, will trigger options request and valid custom header ([25bb949](https://github.com/hubcarl/node-tool-utils/commit/25bb949))
+
+
+
 # [1.4.0](https://github.com/hubcarl/node-tool-utils/compare/1.3.0...1.4.0) (2019-10-21)
 
 
