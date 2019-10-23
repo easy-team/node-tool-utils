@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/hubcarl/node-tool-utils/compare/1.4.1...1.5.0) (2019-10-23)
+
+
+### Features
+
+* support dynamic data for server js file ([9a93b07](https://github.com/hubcarl/node-tool-utils/commit/9a93b07))
+
+
+
 ## [1.4.1](https://github.com/hubcarl/node-tool-utils/compare/1.4.0...1.4.1) (2019-10-22)
 
 
