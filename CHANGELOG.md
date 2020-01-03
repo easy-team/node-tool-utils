@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/hubcarl/node-tool-utils/compare/1.5.0...1.6.0) (2020-01-03)
+
+
+### Bug Fixes
+
+* close service, but port check is used ([8f05ca6](https://github.com/hubcarl/node-tool-utils/commit/8f05ca6))
+
+
+### Features
+
+* add killer export ([f4342f1](https://github.com/hubcarl/node-tool-utils/commit/f4342f1))
+
+
+
 # [1.5.0](https://github.com/hubcarl/node-tool-utils/compare/1.4.1...1.5.0) (2019-10-23)
 
 
